@@ -2,7 +2,7 @@
 Estudante de Analise e desenvolvimento de sistemas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kelly-cristina-barbosa)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href=mailto:kellycrisbarbosalima@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href=kellycrisbarbosalima@gmail.com></a>)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelly-lima&show_icons=true&theme=tokyonight)
 
