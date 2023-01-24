@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Kelly Lima 🚀
 Estudante de Análise e Desenvolvimento de Sistemas
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kelly-cristina-barbosa)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelly-cristina-barbosa/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelly-lima&show_icons=true&theme=tokyonight)
