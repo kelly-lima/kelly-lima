@@ -5,6 +5,8 @@ Estudante de Analise e desenvolvimento de sistemas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelly-lima&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelly-lima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Teconologias usadas
 
 <div style="display: inline_block">
@@ -21,6 +23,11 @@ Estudante de Analise e desenvolvimento de sistemas
 <img  alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img  alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
+
+
+
+
+
 
 
 
