@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Kelly Lima 🚀
-Estudante de Analise e desenvolvimento de sistemas
+Analista graduada em Desenvolvimento de Sistemas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kelly-cristina-barbosa)
 
